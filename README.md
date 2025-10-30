@@ -87,6 +87,10 @@ npm run dev
 
 Deleted for fontend next.js app for fan.should create next.js app and copy it.folder structure should be like this.
 backend is the same.but most of them are written as references.
+
+
+
+
 /payment-demo
 ├── .gitignore          # Root gitignore
 ├── /backend            # Express.js Application
@@ -134,11 +138,8 @@ backend is the same.but most of them are written as references.
     │
     └── (other next.js files)
 
+<img width="1121" height="825" alt="Screenshot 2025-10-30 121423" src="https://github.com/user-attachments/assets/fc0e8fae-251a-4271-9834-6f15b630fa53" />
 
-    <img width="1899" height="972" alt="Screenshot 2025-10-30 121216" src="https://github.com/user-attachments/assets/8cc8a947-e5d9-4961-8650-cd237379e571" />
-    <img width="1919" height="968" alt="Screenshot 2025-10-30 121239" src="https://github.com/user-attachments/assets/f7904cfe-9861-4508-af83-cdbea8e6420d" />
-    <img width="500" height="740" alt="Screenshot 2025-10-30 121311" src="https://github.com/user-attachments/assets/ee399a14-a102-410c-98f4-8a91696553f7" />
-    <img width="1121" height="825" alt="Screenshot 2025-10-30 121423" src="https://github.com/user-attachments/assets/7e723004-ad2f-46e8-99a7-2195987f7918" />
 
 
 
