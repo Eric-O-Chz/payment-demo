@@ -139,6 +139,10 @@ backend is the same.but most of them are written as references.
     └── (other next.js files)
 
 <img width="1121" height="825" alt="Screenshot 2025-10-30 121423" src="https://github.com/user-attachments/assets/fc0e8fae-251a-4271-9834-6f15b630fa53" />
+<img width="500" height="740" alt="Screenshot 2025-10-30 121311" src="https://github.com/user-attachments/assets/72eff552-6330-4a30-9823-a1bd50945ab0" />
+<img width="1899" height="972" alt="Screenshot 2025-10-30 121216" src="https://github.com/user-attachments/assets/e24123c1-ffea-4894-a966-9627f20a21ec" />
+<img width="1919" height="968" alt="Screenshot 2025-10-30 121239" src="https://github.com/user-attachments/assets/8efd5012-24a8-4fe4-8bf1-c8f623392c61" />
+
 
 
 
