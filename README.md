@@ -85,7 +85,7 @@ npm run dev
 
 ...removed for brevity; find Next.js docs at [nextjs.org](https://nextjs.org/)
 
-Deleted for fontend next.js app for fan.should create next.js app and copy it.folder structure should be like this.
+Deleted for fontend next.js app just for fun.should create next.js app and copy it.folder structure should be like this.
 backend is the same.but most of them are written as references.
 
 
